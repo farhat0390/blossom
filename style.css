@@ -1,0 +1,104 @@
+.top{
+background-color: #cd5d7d;
+  padding: 7% 15%;
+  color: #fff;
+
+}
+
+.flower{
+  border-radius: 100%;
+  transform: rotate(-25deg);
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.moto{
+  padding-bottom: 20px;
+}
+#info{
+  padding: 7% 15%;
+  color:#cd5d7d;
+  line-height: 2;
+  text-align: center;
+  font-family:"Montserrat";
+  font-size: 1.5rem;
+
+}
+.lady-1{
+  width: 5%;
+  border-radius: 100%;
+}
+.lady-2{
+  width:5%;
+  border-radius: 100%;
+}
+.lady-3{
+  width:5%;
+  border-radius: 100%;
+}
+.end{
+  text-align: center;
+  word-spacing: normal;
+}
+.btn{
+  margin-right: 3%;
+}
+.reviews{
+  background-color: #fff;
+  padding:7% 15%;
+  text-align: center;
+  color:#cd5d7d;
+}
+.reviews:hover{
+  color:#709fb0;
+}
+.info-title{
+  font-weight: bold;
+}
+#footer{
+  padding:7% 15%;
+  text-align: center;
+  word-spacing: 20px;
+  background-color:#cd5d7d;
+  color: #fff;
+}
+#features{
+  padding: 7% 15%;
+  text-align: center;
+  color: #fff;
+background-color: #cd5d7d;
+
+}
+.row{
+  word-spacing: 50px;
+}
+h3{
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+}
+p{
+  font-size: 120%;
+}
+.icon{
+  color:#cd5d7d;
+}
+.navigation{
+
+  text-align: right;
+}
+.About-us{
+color:#fff;
+
+  word-spacing: 0px;
+  text-decoration: none;
+}
+.Features{
+color:#fff;
+  text-decoration: none;
+}
+.Contact{
+  color:#fff;
+  text-decoration: none;
+}
+.side-text{
+  text-align: right;
+}
